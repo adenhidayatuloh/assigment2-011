@@ -1,9 +1,10 @@
 package orderpostgres
 
 import (
-	"assigment2_aden/entity"
-	orderrepository "assigment2_aden/repository/order_repository"
 	"database/sql"
+
+	"github.com/adenhidayatuloh/assigment2-011/entity"
+	orderrepository "github.com/adenhidayatuloh/assigment2-011/repository/order_repository"
 )
 
 type orderPG struct {

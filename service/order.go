@@ -1,10 +1,10 @@
 package service
 
 import (
-	datatransferobject "assigment2_aden/data_transfer_object"
-	"assigment2_aden/entity"
-	orderrepository "assigment2_aden/repository/order_repository"
 	"errors"
+	datatransferobject "github.com/adenhidayatuloh/assigment2-011/data_transfer_object"
+	"github.com/adenhidayatuloh/assigment2-011/entity"
+	orderrepository "github.com/adenhidayatuloh/assigment2-011/repository/order_repository"
 )
 
 type orderService struct {

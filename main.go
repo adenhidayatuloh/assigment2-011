@@ -1,6 +1,6 @@
 package main
 
-import "assigment2_aden/handler"
+import "github.com/adenhidayatuloh/assigment2-011/handler"
 
 func main() {
 	handler.StartApp()

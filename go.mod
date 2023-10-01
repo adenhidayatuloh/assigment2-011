@@ -1,4 +1,4 @@
-module assigment2_aden
+module github.com/adenhidayatuloh/assigment2-011
 
 go 1.21.0
 

@@ -1,6 +1,6 @@
 package orderrepository
 
-import "assigment2_aden/entity"
+import "github.com/adenhidayatuloh/assigment2-011/entity"
 
 type Repository interface {
 	CreateOrder(orderPayload entity.Order, itemPayload []entity.Item) error

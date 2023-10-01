@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"assigment2_aden/infra/database"
-	orderpostgres "assigment2_aden/repository/order_repository/order_postgres"
-	"assigment2_aden/service"
+	"github.com/adenhidayatuloh/assigment2-011/infra/database"
+	orderpostgres "github.com/adenhidayatuloh/assigment2-011/repository/order_repository/order_postgres"
+	"github.com/adenhidayatuloh/assigment2-011/service"
 
 	"github.com/gin-gonic/gin"
 )

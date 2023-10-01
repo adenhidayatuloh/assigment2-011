@@ -1,11 +1,12 @@
 package handler
 
 import (
-	datatransferobject "assigment2_aden/data_transfer_object"
-	"assigment2_aden/service"
 	"fmt"
 	"net/http"
 	"strconv"
+
+	datatransferobject "github.com/adenhidayatuloh/assigment2-011/data_transfer_object"
+	"github.com/adenhidayatuloh/assigment2-011/service"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,6 +1,6 @@
 package orderrepository
 
-import "assigment2_aden/entity"
+import "github.com/adenhidayatuloh/assigment2-011/entity"
 
 type OrderItem struct {
 	Order entity.Order
