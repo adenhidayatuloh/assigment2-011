@@ -1,5 +1,8 @@
 # assigment2-011
 
+Nama	: Aden Hidayatuloh
+Kode Peserta : GLNG-KS08-011
+
 Table Database : 
 
 create table Orders (
